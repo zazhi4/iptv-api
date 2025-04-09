@@ -1,68 +1,23 @@
 🕘️更新时间,#genre#
-2025-04-09 06:35:26,http://112.46.85.60:8009/hls/501/index.m3u8
+2025-04-09 18:42:56,http://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF
 
 📺央视频道,#genre#
-CCTV-1,http://112.46.85.60:8009/hls/501/index.m3u8
-CCTV-1,http://58.243.224.244:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-2,http://112.46.85.60:8009/hls/502/index.m3u8
-CCTV-2,http://58.243.224.244:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-3,http://112.46.85.60:8009/hls/3/index.m3u8
-CCTV-4,http://112.46.85.60:8009/hls/4/index.m3u8
-CCTV-4,http://58.243.224.244:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-5,http://112.46.85.60:8009/hls/503/index.m3u8
-CCTV-5,http://219.159.91.10:9901/tsfile/live/0005_1.m3u8
-CCTV-7,https://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF
 CCTV-7,http://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF
-CCTV-7,http://112.46.85.60:8009/hls/504/index.m3u8
-CCTV-7,http://58.243.224.244:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-8,http://112.46.85.60:8009/hls/8/index.m3u8
-CCTV-9,http://112.46.85.60:8009/hls/509/index.m3u8
-CCTV-9,http://58.243.224.244:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-10,http://58.243.224.244:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-11,http://58.243.224.244:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-12,http://112.46.85.60:8009/hls/507/index.m3u8
-CCTV-12,http://58.243.224.244:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-14,http://58.243.224.244:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-15,http://58.243.224.244:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-17,http://58.243.224.244:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=0&authid=0
 
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
-广东卫视,http://58.243.224.244:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=0&authid=0
+广东卫视,http://nctv.top/IDOEPpiryt/migu.php?id=gdws
 香港卫视,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/hkphoenix_twn/playlist.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
-浙江卫视,http://112.46.85.60:8009/hls/34/index.m3u8
-浙江卫视,http://58.243.224.244:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=0&authid=0
-湖南卫视,http://58.243.224.244:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=0&authid=0
-北京卫视,http://58.243.224.244:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=0&authid=0
-湖北卫视,http://58.243.224.244:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=0&authid=0
-黑龙江卫视,https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/chunks.m3u8
-黑龙江卫视,http://58.243.224.244:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=0&authid=0
-安徽卫视,http://58.243.224.244:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=0&authid=0
-东方卫视,http://112.46.85.60:8009/hls/31/index.m3u8
-东方卫视,http://58.243.224.244:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=0&authid=0
 东南卫视,http://nctv.top/IDOEPpiryt/fjtv.php?id=5
-甘肃卫视,http://58.243.224.244:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=0&authid=0
 河南卫视,http://nctv.top/IDOEPpiryt/hntv.php?id=hnws
 江苏卫视,http://nctv.top/IDOEPpiryt/jstv5.php?id=jsws
-江苏卫视,http://112.46.85.60:8009/hls/33/index.m3u8
-江苏卫视,http://58.243.224.244:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=0&authid=0
-江西卫视,http://58.243.224.244:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=0&authid=0
-辽宁卫视,http://58.243.224.244:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=0&authid=0
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0
-宁夏卫视,http://58.243.224.244:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=0&authid=0
-山东卫视,http://58.243.224.244:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=0&authid=0
-陕西卫视,http://112.46.85.60:808/hls/17/index.m3u8
-四川卫视,http://58.243.224.244:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=0&authid=0
 深圳卫视,http://yncbn.ks-cdn.gitv.tv/gitv_live/G_SHENZHEN-HQ/G_SHENZHEN-HQ.m3u8
 深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
-深圳卫视,http://58.243.224.244:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=0&authid=0
-三沙卫视,http://58.243.224.244:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=0&authid=0
-天津卫视,http://112.46.85.60:8009/hls/44/index.m3u8
 西藏卫视,http://www.lysvc.cc/daili/xztv.php?id=0
 云南卫视,https://hwapi.yntv.net/62hdvf/nqyn7w.m3u8
-云南卫视,http://58.243.224.244:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=0&authid=0
 
 ☘️浙江频道,#genre#
 浙江钱江,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed
@@ -78,11 +33,11 @@ CCTV-17,http://58.243.224.244:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=0
 浙江经济,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 之江纪录,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?zzhed
+嘉兴新闻综合,http://play-sh13.quklive.com/live/1675942165226154.m3u8?auth_key=2028730261-e7db80d294b04dc9ab5c8136b4c88b74-0-f0795306faa59c7edb35860a8ae63528
 嘉兴新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 嘉兴新闻综合,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8
-嘉兴新闻综合,https://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8
-嘉兴新闻综合,http://live.pzhkai.com/xwzhtl/sd/live.m3u8
 嘉兴新闻综合,https://live.pzhkai.com/xwzhtl/sd/live.m3u8
+嘉兴新闻综合,http://tvfile.jyrmt.cn:80/nmip-media/channellive/channel104452/playlist.m3u8
 嘉兴公共,http://play-sh13.quklive.com/live/1675149601192103.m3u8?auth_key=2028730429-9ab7f7f0267946e880ec46ce3d57ec9e-0-eb04d7f7e549054293604b04150cefa1
 嘉兴文化影视,http://play-sh13.quklive.com/live/1675149625220101.m3u8?auth_key=2028730374-3a60eb8e324f416aa3b26dda7679d920-0-22dc7efa8452d0b0665c15eeed83609d
 舟山新闻综合,http://play-sh13.quklive.com/live/1699001836208185.m3u8?auth_key=2027429324-c77bb6a7063c4cdea57f09ca22f9ef12-0-39c19a21f73b823db2150ea45b147eb2
@@ -113,11 +68,11 @@ CCTV-17,http://58.243.224.244:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=0
 东方财经,http://61.133.118.228:5001/douyu/9548279
 动漫秀场,http://124.248.69.76:26781/douyu/9548279
 动漫秀场,http://61.133.118.228:5001/douyu/9548279
+新闻综合,http://p2.vzan.com/slowlive/596867413819827251/live.m3u8
 新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 新闻综合,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8
-新闻综合,https://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8
-新闻综合,http://p2.vzan.com/slowlive/596867413819827251/live.m3u8
 新闻综合,https://live.pzhkai.com/xwzhtl/sd/live.m3u8
+新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
 
 ☘️江苏频道,#genre#
 南通新闻综合,https://cm-live.ntjoy.com/live/4f1.m3u8
@@ -134,8 +89,6 @@ CCTV-17,http://58.243.224.244:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=0
 伊犁维吾尔,http://110.153.180.106:55555/out_2/index.m3u8?zxinjd
 伊犁哈萨克,http://110.153.180.106:55555/out_3/index.m3u8?zxinjd
 伊犁经济法制,http://110.153.180.106:55555/out_4/index.m3u8?zxinjd
-玛纳斯综合,http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd,
-可克达拉综合,http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8
 
 🌊港·澳·台,#genre#
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
@@ -158,13 +111,10 @@ Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 靖天资讯,https://cdn.iptv8k.top/dl/jrys.php?id=315&time=20240926215313&ip=111.229.253.40
 
 🏀体育频道,#genre#
-CCTV-5,http://112.46.85.60:8009/hls/503/index.m3u8
-CCTV-5,http://219.159.91.10:9901/tsfile/live/0005_1.m3u8
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229.253.40
 纬来体育,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/videolandsport/playlist.m3u8
 
 🎵音乐频道,#genre#
-CCTV-15,http://58.243.224.244:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
 
 🏛经典剧场,#genre#
 笑傲江湖,http://124.248.69.76:26781/huya/23865142
