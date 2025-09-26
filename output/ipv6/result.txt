@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-26 07:11:38,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
+2025-09-26 19:17:05,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
@@ -448,6 +448,7 @@ CETV4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8?
 欢笑剧场,http://gat.bkpcp.top/ymg.php?id=hxjc$订阅源
 欢笑剧场,http://goo.bkpcp.top/mg/hxjc$订阅源
 欢笑剧场,http://3501776.xyz:35455/itv/5000000002000009455.m3u8?cdn=bestzb
+欢笑剧场,http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225771/index.m3u8
 法治天地,http://php.jdshipin.com/itv6.php?cid=bestzb&id=9001547084732463424$订阅源
 法治天地,http://z.b.bkpcp.top/m.php?id=fztd$订阅源
 法治天地,https://cc06.tv12.xyz/42.m3u8
@@ -460,6 +461,7 @@ CETV4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8?
 第一财经,http://ls.qingting.fm/live/276.m3u8$订阅源
 第一财经,http://z.b.bkpcp.top/m.php?id=dycj$订阅源
 都市剧场,http://3501776.xyz:35455/itv/5000000011000031111.m3u8?cdn=bestzb
+都市剧场,http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225762/index.m3u8
 
 ☘️江苏频道,#genre#
 优漫卡通,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010118$订阅源
